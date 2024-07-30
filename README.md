@@ -7,3 +7,4 @@ Enemigos. se logra quitar la vida y texto al dispararle.
 
 Disculpen si no esta completa queria hacer mas, como movimento de los enemigos, gestionar puntuacion/energia, monedas, pociones y más. 
 Me falto tiempo para poder mejorarla más. desde ya gracias por la oportunidad. Saludos
+![image](https://github.com/user-attachments/assets/3cb2342a-4591-474e-abcb-78110e548d43)
